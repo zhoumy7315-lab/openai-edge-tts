@@ -1,0 +1,10 @@
+{
+  "name": "openai-edge-tts-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "openai-edge-tts": "^0.0.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
